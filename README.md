@@ -27,3 +27,17 @@ Check the service from external
 ```bash
   minikube service webapp-service
 ```
+
+## Tech Stack
+
+**Prerequisites:** Docker 
+
+**Server:** Minikube, Kubernetes
+
+**Tools:** Visual Studio Code, Browser (Chrome)
+
+## Reference
+
+Thanks to TechWorld with Nana (Youtube)
+
+[Kubernetes Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=s_o8dwzRlu4&ab_channel=TechWorldwithNana)
